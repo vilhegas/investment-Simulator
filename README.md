@@ -63,5 +63,3 @@ git clone https://github.com/vilhegas/investment-Simulator.git
 
 # Enter the project folder
 cd investment-Simulator
-
-# Open index.html in your browser
